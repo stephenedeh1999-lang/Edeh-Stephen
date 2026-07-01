@@ -75,19 +75,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- These will work once your repository is created at https://github.com/Edeh-Stephen -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edeh-Stephen&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edeh-Stephen&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edeh-Stephen&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 > 💡 *"Turning complex problems into simple, scalable solutions."*
