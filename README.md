@@ -24,6 +24,7 @@
 
 <!-- QUICK LINKS -->
 <p align="center">
+  <a href="https://stephenedeh1999-lang.github.io/weather-app">🌤️ Weather App</a> •
   <a href="#">🌐 Portfolio (Coming Soon)</a> •
   <a href="#">📄 Resume (Coming Soon)</a> •
   <a href="mailto:stephenedeh1999@gmail.com">📧 Email</a> •
@@ -58,9 +59,7 @@
 
 | Project | Tech Stack | Impact |
 |---------|------------|--------|
-| **[Project Name 1]** | React, FastAPI, PostgreSQL | [Add your metric here] |
-| **[Project Name 2]** | AWS Lambda, Python, DynamoDB | [Add your metric here] |
-| **[Project Name 3]** | Next.js, Tailwind, Vercel | [Add your metric here] |
+| **[Weather App](https://stephenedeh1999-lang.github.io/weather-app)** | HTML, CSS, JavaScript | Live weather data for any city |
 
 > 🔗 *See all my repos below 👇*
 
@@ -72,6 +71,19 @@
 - 💬 **WhatsApp:** [Chat with me](https://wa.me/+2347046989514)
 - 💼 **LinkedIn:** *(Coming Soon)*
 - 🌐 **Portfolio:** *(Coming Soon - I'll create a domain later)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephenedeh1999-lang&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenedeh1999-lang&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenedeh1999-lang&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
